@@ -3,7 +3,7 @@
 
 ## Descripción
 
-RecycleMe! es una aplicación web basada en python donde se implementa una inteligencia transferida que clasifica objetos según su material y su correspondiente lugar de desecho.
+RecycleMe! es una aplicación que utiliza dos modelos de Machine Learning para clasificar objetos mediante aprendizaje por transferencia según su material y su correspondiente lugar de desecho.
 
 - Framework Gradio para implementación web
 - Modelo base: ResNet50 (weight = "imagnet")
