@@ -45,7 +45,7 @@ Geolocalización: Si la aplicación me indica que mi residuo debe depositarse en
 
 ## Team
 
-- Jorge Cujó
+- Jorge E. Cujó Blasco
 - Carlos LLueca
 - Marcos Molina
 - Julia Quintano
@@ -57,3 +57,7 @@ Geolocalización: Si la aplicación me indica que mi residuo debe depositarse en
  - Dataset imagnet : https://www.image-net.org/
  - Documentación TensorFlow - ResNet50: https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50
  - Documentación de keras: https://keras.io/api/
+
+## Info
+
+Hemos entrenado dos redes, una identifica el objeto y otra el cubo de deshecho. El motivo para hacerlo así es la facilidad de prototipado rápido y la falta de tiempo para elaborar un dataset para entrenar una red capaz de clasificar todo tipo de residuos. 
