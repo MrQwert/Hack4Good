@@ -40,7 +40,7 @@ Integración: Tanto en dispositivos, hogares, cubos de basura como centros de re
 
 Geolocalización: Si la aplicación me indica que mi residuo debe depositarse en un punto limpio o espacio en concreto, ¿dónde se encuentra el más cercano? La aplicación mostrará al ciudadano los puntos de reciclaje más cercanos compatibles con sus residuos.
 
-## Video Youtube
+## Vídeo Youtube
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yrjNGSxmrwg/0.jpg)](https://www.youtube.com/watch?v=yrjNGSxmrwg)
 
 ## Team
