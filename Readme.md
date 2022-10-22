@@ -23,11 +23,11 @@ RecycleMe! es una aplicación que utiliza dos modelos de Machine Learning para c
 ## Run 
 ### Con python
 ```sh
-python RecicleMe.py
+pip install -r requirements.txt && python RecicleMe.py
 ```
 
 ## Uso
-Escanea el qr que encontrára en carteles o entra en nuestra web y sube una imagen.
+Escanea el QR que encontrára en carteles o entra en nuestra aplicación y sube una imagen.
 
 ## Proyección a Futuro
 ### ¿Qué nos plantamos a corto plazo?
@@ -45,16 +45,15 @@ Geolocalización: Si la aplicación me indica que mi residuo debe depositarse en
 
 ## Team
 
-- Diego Valencia 
 - Jorge Cujó
+- Carlos LLueca
 - Marcos Molina
 - Julia Quintano
+- Diego Valencia 
 - Iñigo Vázquez
-- Carlos LLueca
 
 ## Referencias
  - Documentación de Gradio: https://gradio.app/docs
  - Dataset imagnet : https://www.image-net.org/
  - Documentación TensorFlow - ResNet50: https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet50/ResNet50
  - Documentación de keras: https://keras.io/api/
- - Dataset de desechos para el entrenamiento del modelo: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
