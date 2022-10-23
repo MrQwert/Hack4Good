@@ -16,7 +16,7 @@ RecycleMe! es una aplicación que utiliza dos modelos de Machine Learning para c
 1. [Run](#Run)
 2. [Uso](#Uso)
 3. [Proyección a Futuro](#Proyección-a-Futuro)
-4. [Video Youtube](#Video-Youtube)
+4. [Video Youtube](#Vídeo-Youtube)
 5. [Team](#Team)
 6. [Referencias](#Referencias)
 
