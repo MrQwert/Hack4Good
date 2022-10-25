@@ -20,14 +20,20 @@ RecycleMe! es una aplicación que utiliza dos modelos de Machine Learning para c
 5. [Team](#Team)
 6. [Referencias](#Referencias)
 
-## Run 
-### Con python
+## Run
+### Ejecutar con Docker
+```sh
+docker run -p 7860:7860 jorgecbufv/recycleme
+```
+Una vez esté ejecutándose el contenedor, simplemente acceder a su dirección IP a través de un navegador en el puerto 7860.
+
+### A través del código fuente
 ```sh
 pip install -r requirements.txt && python RecicleMe.py
 ```
 
 ## Uso
-Escanea el QR que encontrára en carteles o entra en nuestra aplicación y sube una imagen.
+Fotografíe un objeto para que la aplicación le diga dónde reciclarlo.
 
 ## Proyección a Futuro
 ### ¿Qué nos plantamos a corto plazo?
